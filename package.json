@@ -1,0 +1,10 @@
+{
+  "name": "pack-socket",
+  "version": "0.1.0",
+  "description": "Pack socket failure demonstration",
+  "scripts": {
+    "prepack": "node prepack.js"
+  },
+  "author": "Corey Farrell",
+  "license": "MIT"
+}
